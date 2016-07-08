@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\flexiblespace\\WidgetShutDown\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\restart_land.png",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\flexiblespace\\WidgetShutDown\\app\\src\\main\\res\\drawable-hdpi\\restart_land.png"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\flexiblespace\\WidgetShutDown\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon.png",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\flexiblespace\\WidgetShutDown\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\flexiblespace\\WidgetShutDown\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shutdown_land.png",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\flexiblespace\\WidgetShutDown\\app\\src\\main\\res\\drawable-hdpi\\shutdown_land.png"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\flexiblespace\\WidgetShutDown\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shutdown_pressed.png",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\flexiblespace\\WidgetShutDown\\app\\src\\main\\res\\drawable-hdpi\\shutdown_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\flexiblespace\\WidgetShutDown\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\screen_off_land.png",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\flexiblespace\\WidgetShutDown\\app\\src\\main\\res\\drawable-hdpi\\screen_off_land.png"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\flexiblespace\\WidgetShutDown\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shutdown.png",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\flexiblespace\\WidgetShutDown\\app\\src\\main\\res\\drawable-hdpi\\shutdown.png"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\flexiblespace\\WidgetShutDown\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\restart_pressed.png",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\flexiblespace\\WidgetShutDown\\app\\src\\main\\res\\drawable-hdpi\\restart_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\flexiblespace\\WidgetShutDown\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\restart.png",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\flexiblespace\\WidgetShutDown\\app\\src\\main\\res\\drawable-hdpi\\restart.png"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\flexiblespace\\WidgetShutDown\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg.png",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\flexiblespace\\WidgetShutDown\\app\\src\\main\\res\\drawable-hdpi\\bg.png"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\flexiblespace\\WidgetShutDown\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\screen_off.png",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\flexiblespace\\WidgetShutDown\\app\\src\\main\\res\\drawable-hdpi\\screen_off.png"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\flexiblespace\\WidgetShutDown\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_land.png",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\flexiblespace\\WidgetShutDown\\app\\src\\main\\res\\drawable-hdpi\\bg_land.png"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\flexiblespace\\WidgetShutDown\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\screen_off_pressed.png",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\flexiblespace\\WidgetShutDown\\app\\src\\main\\res\\drawable-hdpi\\screen_off_pressed.png"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\flexiblespace\\WidgetShutDown\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_screen_selector.xml",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\flexiblespace\\WidgetShutDown\\app\\src\\main\\res\\drawable\\btn_screen_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\flexiblespace\\WidgetShutDown\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_restart_selector.xml",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\flexiblespace\\WidgetShutDown\\app\\src\\main\\res\\drawable\\btn_restart_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\flexiblespace\\WidgetShutDown\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_shutdown_selector.xml",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\flexiblespace\\WidgetShutDown\\app\\src\\main\\res\\drawable\\btn_shutdown_selector.xml"
+    }
+]
